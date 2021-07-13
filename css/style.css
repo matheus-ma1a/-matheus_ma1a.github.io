@@ -60,13 +60,3 @@ a:hover{
     transition: transform  100ms  ease; 
 }
 
-
-h1::after{
-    content: " ";
-    width: 700px;
-    height: 184px;
-    background-color: #62C370;
-    margin-top: 116px;
-    margin-left: 91px;
-    box-shadow: 10px 10px black;
-}
