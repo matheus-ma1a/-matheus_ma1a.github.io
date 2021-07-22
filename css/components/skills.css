@@ -1,0 +1,12 @@
+.skills{
+    background-color: #385663;
+    height: 700px;
+    border-bottom: solid 10px black;
+
+}
+
+.skills .wapper-skills{
+    display: flex;
+    justify-content: center;
+}
+
