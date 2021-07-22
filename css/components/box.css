@@ -1,10 +1,10 @@
 .box{
     display: inline-block;
     background-color: #3a4042;
-    width: 640px;
-    box-shadow: 8px 8px black;
+    width: 728px;
+    box-shadow: 8px 8px rgb(184, 184, 184);
     text-align: center;
-    padding: 42px 0px;
+    padding: 65px 0px;
     padding-left: 44px;
     padding-right: 44px;    
 }
