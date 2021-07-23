@@ -1,0 +1,15 @@
+.wraper-skill{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 60px;
+}
+
+.wraper-skill .skills.-tec {
+
+    width: 430px;
+    
+
+}

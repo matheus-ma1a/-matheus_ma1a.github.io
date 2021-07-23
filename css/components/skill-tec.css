@@ -1,5 +1,11 @@
 .skills.-tec {
     display: flex;
+    margin-bottom: 40px;
+    
+}
+
+.skills.-tec:nth-child(odd){
+    margin-right: 100px;
 }
 
 .skills.-title {
@@ -10,8 +16,7 @@
     margin-left: 25px;
 }
 
-.skills.-tec .skill-position{
-    display: flex;
-    flex-direction: column;
-    justify-content: left;
+
+.skills.-tec .icon{
+    width: 90px;
 }
