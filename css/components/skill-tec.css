@@ -1,0 +1,17 @@
+.skills.-tec {
+    display: flex;
+}
+
+.skills.-title {
+    font-family: 'Press Start 2P', sans-serif;
+    text-shadow: none;
+    font-size: 25px;
+    color: #fff;
+    margin-left: 25px;
+}
+
+.skills.-tec .skill-position{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}

@@ -1,0 +1,22 @@
+.banner{
+    background-image:  url(../../assets/img/banner.gif);
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-bottom: solid 10px black;
+}
+
+.banner .wapper{
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+    margin-left: 91px;
+    padding-top: 116px;
+}
+
+.banner .button-directions{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 728px;
+}
