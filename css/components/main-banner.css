@@ -1,4 +1,4 @@
-.banner{
+.main-banner{
     background-image:  url(../../assets/img/banner.gif);
     height: 900px;
     background-repeat: no-repeat;
@@ -6,7 +6,7 @@
     border-bottom: solid 10px black;
 }
 
-.banner .wapper{
+.main-banner .wapper{
     display: flex;
     flex-direction: column;
     width: 640px;
@@ -14,7 +14,7 @@
     padding-top: 116px;
 }
 
-.banner .button-directions{
+.main-banner .button-directions{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
