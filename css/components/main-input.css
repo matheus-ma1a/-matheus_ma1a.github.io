@@ -1,0 +1,12 @@
+.main-input {
+    border: solid 4px black;
+    border-radius: 0px;
+    height: 50px;
+    font-size: 30px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+}
+
+.main-input.-mensagem {
+    height: 320px;
+}

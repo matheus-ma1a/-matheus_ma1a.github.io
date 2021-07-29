@@ -23,3 +23,7 @@
     transform: scale(1.1);
     transition: transform 100ms cubic-bezier(1,0,0,1); 
 }
+
+.main-button.-footer {
+    font-size: 30px;
+}
