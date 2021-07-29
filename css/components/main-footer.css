@@ -1,4 +1,6 @@
 .main-footer{
-    height: 800px;
     background-color: #385663;
+    display: flex;
+    justify-content: center;
+    
 }
