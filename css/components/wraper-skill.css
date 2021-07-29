@@ -5,11 +5,14 @@
     margin-left: auto;
     margin-right: auto;
     padding-top: 60px;
+    justify-content: space-between;
 }
 
-.wraper-skill .skills.-tec {
 
-    width: 430px;
-    
+.wraper-skill .icon-ux {
+    width: 85px;
+    height: 90px;
 
 }
+
+

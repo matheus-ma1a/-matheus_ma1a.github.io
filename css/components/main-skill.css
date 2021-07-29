@@ -1,3 +1,9 @@
+.main-skill {
+    display: flex;
+    margin-bottom: 38px;
+}
+
+
 .skills.-tec {
     display: flex;
     margin-bottom: 40px;
@@ -12,11 +18,14 @@
     font-family: 'Press Start 2P', sans-serif;
     text-shadow: none;
     font-size: 25px;
-    color: #fff;
+    color: rgb(255, 255, 255);
     margin-left: 25px;
+    display: flex;
 }
 
 
-.skills.-tec .icon{
+.main-skill .icon{
     width: 90px;
+    height: 90px;
 }
+
